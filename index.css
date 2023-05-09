@@ -1,0 +1,18 @@
+
+*{
+    background-color: rgb(55, 226, 43);
+}
+#text{
+    color: rgb(5, 5, 22);
+    text-align: center;
+    font-size: 50px;
+}
+#count{
+    font-size: 50px;
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(2, 12, 5); 
+    margin-left: 300px;   
+    margin-right: 300px;
+}
+
